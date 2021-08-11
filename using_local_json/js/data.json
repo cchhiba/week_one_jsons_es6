@@ -1,0 +1,37 @@
+
+[{
+  "name":"John",
+  "age":12,
+  "car":"Chevy"
+},
+
+{
+  "name":"Sarah",
+  "age":20,
+  "car":"Swift"
+},
+
+{
+  "name":"Ben",
+  "age":19,
+  "car":"Toyota"
+
+},
+
+{
+  "name":"John",
+  "age":12,
+  "car":"chevy"
+},
+
+{
+  "name":"Tim",
+  "age":123,
+  "car":"blue"
+},
+
+{
+  "name":"Beula",
+  "age":112,
+  "car":"red"
+}]
